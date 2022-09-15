@@ -9,6 +9,12 @@
         "Category": "Fun and Games",
         "Description": "Shrimp tank",
         "Icon": "colors-chromablue",
-        "Id": "com.github.Panadero1.shrimptank"
+        "Id": "com.github.Panadero1.shrimptank",
+        "Name": "shrimptank",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1",
+        "Website": "https://github.com/Panadero1/shrimptank"
     }
  }
